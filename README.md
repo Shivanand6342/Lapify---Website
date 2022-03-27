@@ -4,6 +4,7 @@
   * Professionnal
   * Creator
   * Gaming
+- For Database, Data Dictionary PDF is there.
 - Buy Now feature is disabled because I have been using RazorPay API, so you can add your own id's API.
 
 ## **What I learned**

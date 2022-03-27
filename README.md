@@ -1,15 +1,37 @@
 # **Lapify - Website**
-- Laptop Shopping Website using HTML, CSS, JavaScript (for FrontEnd) and PHP and MySQL (for BackEnd)
+- Laptop Shopping Website using HTML, CSS, JavaScript (for FrontEnd) and PHP and MySQL (for BackEnd).
+- As name suggests, its a shopping website where I have categoriezed Laptops into 3 different Categories 
+  * Professionnal
+  * Creator
+  * Gaming
+- Buy Now feature is disabled because I have been using RazorPay API, so you can add your own id's API.
 
 ## **What I learned**
--
+- Had a lot of fun and learned alot during this Project.
+- Enhanced my knowledge over JavaScript, PHP and MySQL.
+- Connectivity of HTML pages to Database.
 
 ## **Project Status**
+✔ Completed
+
+## **Project Screen Shot(s)**  
+<hr>
+<h5 align="center">User Interaction</h5>
+<hr>
+<img align="left" width="485" height="700" src="https://i.postimg.cc/C5zQvSxJ/Home-Page.png">
+<img width="485" height="700" src="https://i.postimg.cc/63WYytsz/Products-Page.png">
+<img align="left" width="485" height="700" src="https://i.postimg.cc/qvg9mcz4/Category-Page.png">
+<img width="485" height="700" src="https://i.postimg.cc/X7r8mscH/Contact-Us-Page.png">
+<img align="left" width="485" height="300" src="https://i.postimg.cc/k4D6Gp5L/Login-Page.png">
+<img width="485" height="300" src="https://i.postimg.cc/BZBtTF8m/Sign-Up-Page.png">
+<hr>
+<h5 align="center">Admin Panel</h5>
+<hr>
+<img align="left" width="485" height="400" src="https://i.postimg.cc/5N5GNxRY/Admin-Login-Page.png">
+<img width="485" height="400" src="https://i.postimg.cc/Rh2nk5cv/Admin-Dashboard.png">
+<img align="left" width="485" height="600" src="https://i.postimg.cc/XYg766W4/Admin-Add-Product-Page.png">
+<img width="485" height="600" src="https://i.postimg.cc/s23K67jw/Admin-All-Products.png">
+<br><br><br>
 
 
-## **Project Screen Shot(s)**
-<figure>
-  <img  align = "left" width="250" height="600" src="https://i.postimg.cc/C5zQvSxJ/Home-Page.png">
-  <figcaption>Home Page</figcaption>
-  
-</figure>
+Thank You 😊, Have a Nice Day 🖤

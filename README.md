@@ -15,7 +15,7 @@
 ## **Project Status**
 ✔ Completed
 
-## **Project Screen Shot(s)**  
+## **Project Sample Screen Shot(s)**  
 <hr>
 <h5 align="center">User Interaction</h5>
 <hr>

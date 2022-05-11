@@ -13,7 +13,9 @@
 - Connectivity of HTML pages to Database.
 
 ## **Project Status**
-✔ Completed, Check here 👉 [Lapify](https://lapify.000webhostapp.com/)
+✔ Completed <br> 
+- User Side 👉 [Lapify](https://lapify.000webhostapp.com/)<br>
+- Admin Side 👉 [Lapify Admin](https://lapify.000webhostapp.com/admin/login.php)
 
 ## **Project Sample Screen Shot(s)**  
 <hr>

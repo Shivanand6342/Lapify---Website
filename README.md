@@ -13,8 +13,7 @@
 - Connectivity of HTML pages to Database.
 
 ## **Project Status**
-✔ Completed
-Visit [Lapify](https://lapify.000webhostapp.com/)
+✔ Completed, Check here 👉 [Lapify](https://lapify.000webhostapp.com/)
 
 ## **Project Sample Screen Shot(s)**  
 <hr>

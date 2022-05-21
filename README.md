@@ -1,5 +1,5 @@
 # **Lapify - Website**
-- Laptop Shopping Website using HTML, CSS, JavaScript (for FrontEnd) and PHP, MySQL (for BackEnd).
+- Laptop Shopping Website using HTML, CSS, JavaScript, Bootstrap, jQuery (for FrontEnd) and PHP, MySQL (for BackEnd).
 - As name suggests, its a shopping website where I have categoriezed Laptops into 3 different Categories 
   * Professionnal
   * Creator
